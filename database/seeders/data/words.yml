@@ -38,3 +38,93 @@
   tags:
     - senses
     - anatomy
+
+- sources:
+  - sorani_alphabet: چی
+    kurdish_latin_alphabet: çî
+    ipa: null
+  translations:
+    - what
+  tags:
+    - question 
+
+- sources:
+  - sorani_alphabet: كه‌ی
+    kurdish_latin_alphabet: key
+    ipa: null
+  translations:
+    - when
+  tags:
+    - question 
+
+- sources:
+  - sorani_alphabet: له‌ كوێ
+    kurdish_latin_alphabet: le kwê
+    ipa: null
+  translations:
+    - where
+  tags:
+    - question 
+
+- sources:
+  - sorani_alphabet: كێ
+    kurdish_latin_alphabet: kê
+    ipa: null
+  translations:
+    - who 
+  tags:
+    - question 
+
+- sources:
+  - sorani_alphabet: كام
+    kurdish_latin_alphabet: kam
+    ipa: null
+  translations:
+    - which 
+  tags:
+    - question 
+
+- sources:
+  - sorani_alphabet: بۆچی
+    kurdish_latin_alphabet: boçî
+    ipa: null
+  translations:
+    - why 
+  tags:
+    - question 
+
+- sources:
+  - sorani_alphabet: چۆن
+    kurdish_latin_alphabet: çon
+    ipa: null
+  translations:
+    - how 
+  tags:
+    - question 
+
+- sources:
+  - sorani_alphabet: هی كێ
+    kurdish_latin_alphabet: hî kê
+    ipa: null
+  translations:
+    - whose 
+  tags:
+    - question 
+
+- sources:
+  - sorani_alphabet: چه‌ند
+    kurdish_latin_alphabet: çend
+    ipa: null
+  translations:
+    - how much (uncountable) 
+  tags:
+    - question 
+
+- sources:
+  - sorani_alphabet: چه‌ند دانه‌
+    kurdish_latin_alphabet: çend dane
+    ipa: null
+  translations:
+    - how many (countable) 
+  tags:
+    - question 
