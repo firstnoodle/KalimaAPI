@@ -1,0 +1,40 @@
+- sources:
+  - sorani_alphabet: من
+    kurdish_latin_alphabet: min
+    ipa: null
+  translations:
+    - me
+    - i
+  tags:
+    - pronoun
+
+- sources:
+  - sorani_alphabet: تۆ
+    kurdish_latin_alphabet: to
+    ipa: null
+  translations:
+    - you
+  tags:
+    - pronoun
+
+- sources:
+  - sorani_alphabet: ئه‌و
+    kurdish_latin_alphabet: ew
+    ipa: null
+  translations:
+    - her
+    - him
+  tags:
+    - pronoun
+
+- sources:
+  - sorani_alphabet: گو
+    kurdish_latin_alphabet: gwê
+    ipa: null
+  translations:
+    - ear
+    - hear
+    - listen
+  tags:
+    - senses
+    - anatomy

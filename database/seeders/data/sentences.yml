@@ -1,0 +1,56 @@
+- sources:
+  - sorani_alphabet: گو ێگرتن
+    kurdish_latin_alphabet: Gwêgirtin
+    ipa: null
+  translations:
+    - To listen
+  words:
+    - ear
+    - listen
+
+- sources:
+  - sorani_alphabet: من گوێ ده‌گرم
+    kurdish_latin_alphabet: Min gwê degirim
+    ipa: null
+  translations:
+    - I am listening
+  words:
+    - ear
+    - listen
+    - me
+
+- sources:
+  - sorani_alphabet: من گوێ له‌ تۆ ده‌گرم
+    kurdish_latin_alphabet: Min gwê le to degirim
+    ipa: null
+  translations:
+    - I am listening to you
+  words:
+    - ear
+    - listen
+    - me
+    - you
+
+- sources:
+  - sorani_alphabet: من گوێ ناگرم
+    kurdish_latin_alphabet: Min gwê nagirim
+    ipa: null
+  translations:
+    - I am not listening
+  words:
+    - ear
+    - me
+    - not
+
+- sources:
+  - sorani_alphabet: من گوێ له‌ ئه‌و ناگرم
+    kurdish_latin_alphabet: Min gwê le ew nagirim
+    ipa: null
+  translations:
+    - I am not listening to him/her
+  words:
+    - ear
+    - listen
+    - her
+    - him
+    - not
