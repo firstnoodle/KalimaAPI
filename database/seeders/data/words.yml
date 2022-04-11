@@ -2,9 +2,13 @@
   - sorani_alphabet: من
     kurdish_latin_alphabet: min
     ipa: null
+    notes:
   translations:
-    - me
-    - i
+    - translation: me
+      notes:
+    - translation: i
+      notes:
+  notes: 
   tags:
     - pronoun
 
@@ -12,8 +16,11 @@
   - sorani_alphabet: تۆ
     kurdish_latin_alphabet: to
     ipa: null
+    notes:
   translations:
-    - you
+    - translation: you
+      notes:
+  notes: 
   tags:
     - pronoun
 
@@ -21,9 +28,13 @@
   - sorani_alphabet: ئه‌و
     kurdish_latin_alphabet: ew
     ipa: null
+    notes:
   translations:
-    - her
-    - him
+    - translation: her
+      notes:
+    - translation: him
+      notes:
+  notes: 
   tags:
     - pronoun
 
@@ -31,10 +42,15 @@
   - sorani_alphabet: گو
     kurdish_latin_alphabet: gwê
     ipa: null
+    notes:
   translations:
-    - ear
-    - hear
-    - listen
+    - translation: ear
+      notes:
+    - translation: hear
+      notes:
+    - translation: listen
+      notes:
+  notes: 
   tags:
     - senses
     - anatomy
@@ -43,8 +59,11 @@
   - sorani_alphabet: چی
     kurdish_latin_alphabet: çî
     ipa: null
+    notes:
   translations:
-    - what
+    - translation: what
+      notes:
+  notes: 
   tags:
     - question 
 
@@ -52,8 +71,11 @@
   - sorani_alphabet: كه‌ی
     kurdish_latin_alphabet: key
     ipa: null
+    notes:
   translations:
-    - when
+    - translation: when
+      notes:
+  notes: 
   tags:
     - question 
 
@@ -61,8 +83,11 @@
   - sorani_alphabet: له‌ كوێ
     kurdish_latin_alphabet: le kwê
     ipa: null
+    notes:
   translations:
-    - where
+    - translation: where
+      notes:
+  notes: 
   tags:
     - question 
 
@@ -70,8 +95,11 @@
   - sorani_alphabet: كێ
     kurdish_latin_alphabet: kê
     ipa: null
+    notes:
   translations:
-    - who 
+    - translation: who
+      notes:
+  notes: 
   tags:
     - question 
 
@@ -79,8 +107,11 @@
   - sorani_alphabet: كام
     kurdish_latin_alphabet: kam
     ipa: null
+    notes:
   translations:
-    - which 
+    - translation: which
+      notes:
+  notes: 
   tags:
     - question 
 
@@ -88,8 +119,11 @@
   - sorani_alphabet: بۆچی
     kurdish_latin_alphabet: boçî
     ipa: null
+    notes:
   translations:
-    - why 
+    - translation: why
+      notes:
+  notes: 
   tags:
     - question 
 
@@ -97,8 +131,11 @@
   - sorani_alphabet: چۆن
     kurdish_latin_alphabet: çon
     ipa: null
+    notes:
   translations:
-    - how 
+    - translation: how
+      notes:
+  notes: 
   tags:
     - question 
 
@@ -106,8 +143,11 @@
   - sorani_alphabet: هی كێ
     kurdish_latin_alphabet: hî kê
     ipa: null
+    notes:
   translations:
-    - whose 
+    - translation: whose
+      notes:
+  notes: 
   tags:
     - question 
 
@@ -115,8 +155,11 @@
   - sorani_alphabet: چه‌ند
     kurdish_latin_alphabet: çend
     ipa: null
+    notes:
   translations:
-    - how much (uncountable) 
+    - translation: how much
+      notes: uncountable
+  notes: 
   tags:
     - question 
 
@@ -124,7 +167,101 @@
   - sorani_alphabet: چه‌ند دانه‌
     kurdish_latin_alphabet: çend dane
     ipa: null
+    notes:
   translations:
-    - how many (countable) 
+    - translation: how many
+      notes: countable
+  notes: 
   tags:
     - question 
+
+- sources:
+  - sorani_alphabet: تام
+    kurdish_latin_alphabet: tam
+    ipa: null
+    notes:
+  translations:
+    - translation: taste 
+      notes: 
+  notes: 
+  tags:
+    - senses 
+    - taste 
+
+- sources:
+  - sorani_alphabet: شیرین
+    kurdish_latin_alphabet: şîrîn
+    ipa: null
+    notes:
+  translations:
+    - translation: sweet
+      notes: 
+  notes: 
+  tags:
+    - senses 
+    - taste 
+
+- sources:
+  - sorani_alphabet: سوێر
+    kurdish_latin_alphabet: swêr
+    ipa: null
+    notes:
+  translations:
+    - translation: salty 
+      notes: 
+  notes: 
+  tags:
+    - senses 
+    - taste 
+
+- sources:
+  - sorani_alphabet: ترش
+    kurdish_latin_alphabet: tirş
+    ipa: null
+    notes:
+  translations:
+    - translation: sour 
+      notes: 
+  notes: 
+  tags:
+    - senses 
+    - taste 
+
+- sources:
+  - sorani_alphabet: تاڵ
+    kurdish_latin_alphabet: tall
+    ipa: null
+    notes:
+  translations:
+    - translation: bitter 
+      notes: 
+  notes: 
+  tags:
+    - senses 
+    - taste 
+
+- sources:
+  - sorani_alphabet: خوێ
+    kurdish_latin_alphabet: xwê
+    ipa: null
+    notes:
+  translations:
+    - translation: salt 
+      notes: 
+  notes: 
+  tags:
+    - spice 
+    - taste 
+
+- sources:
+  - sorani_alphabet: ئاڵه‌ت
+    kurdish_latin_alphabet: allet
+    ipa: null
+    notes:
+  translations:
+    - translation: pepper 
+      notes: 
+  notes: 
+  tags:
+    - spice 
+    - taste 
