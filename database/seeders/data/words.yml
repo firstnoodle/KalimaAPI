@@ -10,7 +10,7 @@
       notes:
   notes: 
   tags:
-    - pronoun
+    - sublect pronoun
 
 - sources:
   - sorani_alphabet: تۆ
@@ -22,7 +22,7 @@
       notes:
   notes: 
   tags:
-    - pronoun
+    - subject pronoun
 
 - sources:
   - sorani_alphabet: ئه‌و
@@ -30,13 +30,145 @@
     ipa: null
     notes:
   translations:
-    - translation: her
+    - translation: she 
       notes:
-    - translation: him
+    - translation: he 
+      notes:
+    - translation: it
       notes:
   notes: 
   tags:
-    - pronoun
+    - subject pronoun
+
+- sources:
+  - sorani_alphabet: ێمه‌
+    kurdish_latin_alphabet: ême
+    ipa: null
+    notes:
+  translations:
+    - translation: we 
+      notes:
+  notes: 
+  tags:
+    - subject pronoun
+
+- sources:
+  - sorani_alphabet: ێوه‌
+    kurdish_latin_alphabet: êwe
+    ipa: null
+    notes:
+  translations:
+    - translation: you
+      notes:
+  notes: 
+  tags:
+    - subject pronoun
+
+- sources:
+  - sorani_alphabet: ێه‌وان
+    kurdish_latin_alphabet: ewan
+    ipa: null
+    notes:
+  translations:
+    - translation: they
+      notes:
+  notes: 
+  tags:
+    - subject pronoun
+
+- sources:
+  - sorani_alphabet: خۆم
+    kurdish_latin_alphabet: xom
+    ipa: null
+    notes:
+  translations:
+    - translation: my
+      notes:
+    - translation: mine
+      notes:
+  notes: 
+  tags:
+    - object pronoun
+    - possesive pronoun
+
+- sources:
+  - sorani_alphabet: خۆت
+    kurdish_latin_alphabet: xot
+    ipa: null
+    notes:
+  translations:
+    - translation: your
+      notes: singular
+    - translation: yours
+      notes: singular
+  notes: 
+  tags:
+    - object pronoun
+    - possesive pronoun
+
+- sources:
+  - sorani_alphabet: خۆی
+    kurdish_latin_alphabet: xoy
+    ipa: null
+    notes:
+  translations:
+    - translation: his
+      notes:
+    - translation: hers
+      notes:
+    - translation: its 
+      notes:
+  notes: 
+  tags:
+    - object pronoun
+    - possesive pronoun
+
+- sources:
+  - sorani_alphabet: خۆمان
+    kurdish_latin_alphabet: xoman
+    ipa: null
+    notes:
+  translations:
+    - translation: our
+      notes:
+    - translation: ours 
+      notes:
+  notes: 
+  tags:
+    - object pronoun
+    - possesive pronoun
+
+- sources:
+  - sorani_alphabet: خۆتان
+    kurdish_latin_alphabet: xotan
+    ipa: null
+    notes:
+  translations:
+    - translation: your
+      notes: plural
+    - translation: yours 
+      notes: plural
+  notes: 
+  tags:
+    - object pronoun
+    - possesive pronoun
+
+- sources:
+  - sorani_alphabet: خۆیان
+    kurdish_latin_alphabet: xoyan
+    ipa: null
+    notes:
+  translations:
+    - translation: their
+      notes:
+    - translation: theirs 
+      notes:
+  notes: 
+  tags:
+    - object pronoun
+    - possesive pronoun
+
+  ######
 
 - sources:
   - sorani_alphabet: گو
@@ -265,3 +397,137 @@
   tags:
     - spice 
     - taste 
+
+- sources:
+  - sorani_alphabet: برۆ
+    kurdish_latin_alphabet: biro
+    ipa: null
+    notes:
+  translations:
+    - translation: eyebrow
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
+
+- sources:
+  - sorani_alphabet: ڵووت
+    kurdish_latin_alphabet: lût
+    ipa: null
+    notes:
+  translations:
+    - translation: nose 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
+
+- sources:
+  - sorani_alphabet: ده‌م
+    kurdish_latin_alphabet: dem
+    ipa: null
+    notes:
+  translations:
+    - translation: mouth 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
+
+- sources:
+  - sorani_alphabet: چناگه‌
+    kurdish_latin_alphabet: çenage
+    ipa: null
+    notes:
+  translations:
+    - translation: chin 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
+
+- sources:
+  - sorani_alphabet: ناو چه‌وان
+    kurdish_latin_alphabet: naw çewan
+    ipa: null
+    notes:
+  translations:
+    - translation: forehead
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
+
+- sources:
+  - sorani_alphabet: گوێ
+    kurdish_latin_alphabet: gwê
+    ipa: null
+    notes:
+  translations:
+    - translation: ear 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
+
+- sources:
+  - sorani_alphabet: روومه‌ت
+    kurdish_latin_alphabet: rûmet
+    ipa: null
+    notes:
+  translations:
+    - translation: cheek
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
+
+- sources:
+  - sorani_alphabet: ددان
+    kurdish_latin_alphabet: didan
+    ipa: null
+    notes:
+  translations:
+    - translation: tooth 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
+
+- sources:
+  - sorani_alphabet: زمان
+    kurdish_latin_alphabet: ziman
+    ipa: null
+    notes:
+  translations:
+    - translation: tongue
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
+
+- sources:
+  - sorani_alphabet: پرچ
+    kurdish_latin_alphabet: pirç
+    ipa: null
+    notes:
+  - sorani_alphabet: s
+    kurdish_latin_alphabet: qij
+    ipa: null
+    notes:
+  translations:
+    - translation: tongue
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
