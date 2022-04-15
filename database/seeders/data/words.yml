@@ -516,18 +516,302 @@
     - face 
 
 - sources:
-  - sorani_alphabet: پرچ
-    kurdish_latin_alphabet: pirç
-    ipa: null
-    notes:
-  - sorani_alphabet: s
-    kurdish_latin_alphabet: qij
+  - sorani_alphabet: لێو
+    kurdish_latin_alphabet: lêw 
     ipa: null
     notes:
   translations:
-    - translation: tongue
+    - translation: lip 
       notes: 
   notes: 
   tags:
     - anatomy 
     - face 
+
+- sources:
+  - sorani_alphabet: پرچ
+    kurdish_latin_alphabet: pirç
+    ipa: null
+    notes:
+  - sorani_alphabet: قژ
+    kurdish_latin_alphabet: qij
+    ipa: null
+    notes:
+  translations:
+    - translation: hair
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - face 
+
+- sources:
+  - sorani_alphabet: له‌ش
+    kurdish_latin_alphabet: leş
+    ipa: null
+    notes:
+  translations:
+    - translation: body 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: سه‌ر
+    kurdish_latin_alphabet: ser
+    ipa: null
+    notes:
+  translations:
+    - translation: head
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: مل
+    kurdish_latin_alphabet: mil
+    ipa: null
+    notes:
+  translations:
+    - translation: throat 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: شان
+    kurdish_latin_alphabet: şan
+    ipa: null
+    notes:
+  translations:
+    - translation: shoulder 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: سینگ
+    kurdish_latin_alphabet: sîng
+    ipa: null
+    notes:
+  translations:
+    - translation: chest 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: زگ
+    kurdish_latin_alphabet: zig
+    ipa: null
+    notes:
+  translations:
+    - translation: stomach 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: پشت
+    kurdish_latin_alphabet: pişt
+    ipa: null
+    notes:
+  translations:
+    - translation: back 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: قۆل
+    kurdish_latin_alphabet: qol
+    ipa: null
+    notes:
+  translations:
+    - translation: arm 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: ئانیشك
+    kurdish_latin_alphabet: anîşk
+    ipa: null
+    notes:
+  translations:
+    - translation: elbow 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: ده‌ست
+    kurdish_latin_alphabet: dest
+    ipa: null
+    notes:
+  translations:
+    - translation: hand 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: په‌نجه‌
+    kurdish_latin_alphabet: pençe
+    ipa: null
+    notes:
+  translations:
+    - translation: finger 
+      notes: 
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: نینۆك
+    kurdish_latin_alphabet: nînok
+    ipa: null
+    notes:
+  - sorani_alphabet: نووخان
+    kurdish_latin_alphabet: nûxan
+    ipa: null
+    notes:
+  translations:
+    - translation: nail 
+      notes: finger nail
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: قوون
+    kurdish_latin_alphabet: qûn
+    ipa: null
+    notes:
+  translations:
+    - translation: bum
+      notes:
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: لاق
+    kurdish_latin_alphabet: laq
+    ipa: null
+    notes:
+  - sorani_alphabet: قاچ
+    kurdish_latin_alphabet: qaç
+    ipa: null
+    notes:
+  translations:
+    - translation: leg 
+      notes:
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: چۆك
+    kurdish_latin_alphabet: çok
+    ipa: null
+    notes:
+  translations:
+    - translation: knee
+      notes:
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: ‌ پێ 
+    kurdish_latin_alphabet: pê
+    ipa: null
+    notes:
+  - sorani_alphabet: پا
+    kurdish_latin_alphabet: pa
+    ipa: null
+    notes:
+  translations:
+    - translation: foot 
+      notes:
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: قوله‌ پێ 
+    kurdish_latin_alphabet: qule pê
+    ipa: null
+    notes:
+  - sorani_alphabet: قوله‌ پا
+    kurdish_latin_alphabet: qule pa
+    ipa: null
+    notes:
+  translations:
+    - translation: angle 
+      notes:
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: پاژنه‌ی پێ
+    kurdish_latin_alphabet: pajney pê
+    ipa: null
+    notes:
+  - sorani_alphabet: پاژنه‌ی پا
+    kurdish_latin_alphabet: pajney pa
+    ipa: null
+    notes:
+  translations:
+    - translation: heel 
+      notes:
+  notes: 
+  tags:
+    - anatomy 
+    - body 
+
+- sources:
+  - sorani_alphabet: په‌نجه‌ی پێ
+    kurdish_latin_alphabet: pençey pê
+    ipa: null
+    notes:
+  - sorani_alphabet: په‌نجه‌ی پا
+    kurdish_latin_alphabet: pençey pa
+    ipa: null
+    notes:
+  translations:
+    - translation: toe 
+      notes:
+  notes: 
+  tags:
+    - anatomy 
+    - body 
