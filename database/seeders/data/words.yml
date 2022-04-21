@@ -815,3 +815,181 @@
   tags:
     - anatomy 
     - body 
+
+- sources:
+  - sorani_alphabet: له‌
+    kurdish_latin_alphabet: le
+    ipa: null
+    notes:
+  translations:
+    - translation: in 
+      notes:
+    - translation: at
+      notes:
+    - translation: from
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: بۆ
+    kurdish_latin_alphabet: bo
+    ipa: null
+    notes:
+  translations:
+    - translation: to
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: له‌ سه‌ر
+    kurdish_latin_alphabet: le ser
+    ipa: null
+    notes: literally meaning on head
+  - sorani_alphabet: له‌ بان
+    kurdish_latin_alphabet: le ban
+    ipa: null
+    notes:
+  translations:
+    - translation: on
+      notes:
+    - translation: over 
+      notes:
+    - translation: about
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: له‌ ته‌ك
+    kurdish_latin_alphabet: le tek
+    ipa: null
+    notes:
+  translations:
+    - translation: next to
+      notes:
+    - translation: beside
+      notes:
+    - translation: by
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: له‌ ژێر
+    kurdish_latin_alphabet: le jêr
+    ipa: null
+    notes:
+  - sorani_alphabet: له‌ بن
+    kurdish_latin_alphabet: le bin
+    ipa: null
+    notes:
+  translations:
+    - translation: under
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: له‌ ناو
+    kurdish_latin_alphabet: le naw
+    ipa: null
+    notes:
+  translations:
+    - translation: inside 
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: له‌ ده‌ره‌وه‌
+    kurdish_latin_alphabet: le derewe
+    ipa: null
+    notes:
+  translations:
+    - translation: outside 
+      notes:
+    - translation: outdoor 
+      notes: needs verification
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: به‌رامبه‌ر
+    kurdish_latin_alphabet: beramber
+    ipa: null
+    notes:
+  translations:
+    - translation: in front of
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: له‌ پیشت
+    kurdish_latin_alphabet: le pişt
+    ipa: null
+    notes:
+  translations:
+    - translation: behind
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: لێره‌
+    kurdish_latin_alphabet: l'êre
+    ipa: null
+    notes: In Soranî you use an apostrophe after the 'l' (le) if you mean a certain place. Otherwise it's just êre.
+  translations:
+    - translation: here 
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: له‌وێ
+    kurdish_latin_alphabet: l'ewê
+    ipa: null
+    notes: In Soranî you use an apostrophe after the 'l' (le) if you mean a certain place. Otherwise it's just ewê.
+  translations:
+    - translation: there
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
+
+- sources:
+  - sorani_alphabet: له‌وسه‌ر
+    kurdish_latin_alphabet: l'ewser
+    ipa: null
+    notes: In Soranî you use an apostrophe after the 'l' (le) if you mean a certain place. Otherwise it's just ewser.
+  translations:
+    - translation: over there 
+      notes:
+  notes: 
+  tags:
+    - preposition
+    - local preposition
