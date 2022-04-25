@@ -993,3 +993,444 @@
   tags:
     - preposition
     - local preposition
+
+- sources:
+  - sorani_alphabet: پشیله‌
+    kurdish_latin_alphabet: pişîle
+    ipa: null
+    notes: 
+  translations:
+    - translation: cat
+      notes:
+  notes: 
+  tags:
+    - animal 
+
+- sources:
+  - sorani_alphabet: سه‌گ
+    kurdish_latin_alphabet: seg
+    ipa: null
+    notes: 
+  translations:
+    - translation: dog
+      notes:
+  notes: 
+  tags:
+    - animal 
+
+- sources:
+  - sorani_alphabet: مریشك
+    kurdish_latin_alphabet: mirîşk
+    ipa: null
+    notes: 
+  translations:
+    - translation: hen
+      notes:
+  notes: 
+  tags:
+    - animal 
+    - bird
+
+- sources:
+  - sorani_alphabet: كه‌ڵه‌شێر
+    kurdish_latin_alphabet: kellaşêr
+    ipa: null
+    notes: 
+  translations:
+    - translation: coq 
+      notes:
+  notes: 
+  tags:
+    - animal 
+    - bird
+
+- sources:
+  - sorani_alphabet: ێه‌سپ
+    kurdish_latin_alphabet: esp
+    ipa: null
+    notes: 
+  translations:
+    - translation: horse
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: مانگا
+    kurdish_latin_alphabet: manga
+    ipa: null
+    notes: 
+  translations:
+    - translation: cow 
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: به‌راز
+    kurdish_latin_alphabet: beraz
+    ipa: null
+    notes: 
+  translations:
+    - translation: pig
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: بزن
+    kurdish_latin_alphabet: bizin
+    ipa: null
+    notes: 
+  translations:
+    - translation: goat 
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: مه‌ڕ
+    kurdish_latin_alphabet: marr
+    ipa: null
+    notes: 
+  translations:
+    - translation: sheep
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: به‌رخ
+    kurdish_latin_alphabet: berx
+    ipa: null
+    notes: 
+  translations:
+    - translation: lamb
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: مێشوله‌
+    kurdish_latin_alphabet: mêşûle
+    ipa: null
+    notes: 
+  translations:
+    - translation: mosquito
+      notes:
+  notes: 
+  tags:
+    - animal
+    - insect
+
+- sources:
+  - sorani_alphabet: مێش
+    kurdish_latin_alphabet: mêş
+    ipa: null
+    notes: 
+  translations:
+    - translation: flye 
+      notes:
+  notes: 
+  tags:
+    - animal
+    - insect
+
+- sources:
+  - sorani_alphabet: ێه‌سك
+    kurdish_latin_alphabet: asik
+    ipa: null
+    notes: 
+  translations:
+    - translation: deer
+      notes:
+  notes: 
+  tags:
+    - animal 
+
+- sources:
+  - sorani_alphabet: مشك
+    kurdish_latin_alphabet: mişk
+    ipa: null
+    notes: 
+  translations:
+    - translation: mouse
+      notes:
+  notes: 
+  tags:
+    - animal 
+
+- sources:
+  - sorani_alphabet: ژووشك
+    kurdish_latin_alphabet: jûşik
+    ipa: null
+    notes: 
+  translations:
+    - translation: hedgehog
+      notes:
+  notes: 
+  tags:
+    - animal 
+
+- sources:
+  - sorani_alphabet: چاڵچاڵۆكه‌
+    kurdish_latin_alphabet: çallçalloke
+    ipa: null
+    notes: 
+  translations:
+    - translation: spider 
+      notes:
+  notes: 
+  tags:
+    - animal
+    - insect 
+
+- sources:
+  - sorani_alphabet: كیسه‌ڵ
+    kurdish_latin_alphabet: kîsell 
+    ipa: null
+    notes: 
+  translations:
+    - translation: turtle
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: مه‌یموون
+    kurdish_latin_alphabet: meymûn
+    ipa: null
+    notes: 
+  translations:
+    - translation: monkey
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: گورگ
+    kurdish_latin_alphabet: gurg
+    ipa: null
+    notes: 
+  translations:
+    - translation: wolf
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: مێرووله‌
+    kurdish_latin_alphabet: mêrûle
+    ipa: null
+    notes: 
+  translations:
+    - translation: ant
+      notes:
+  notes: 
+  tags:
+    - animal
+    - insect
+
+- sources:
+  - sorani_alphabet: ووشتر
+    kurdish_latin_alphabet: wiştir
+    ipa: null
+    notes: 
+  translations:
+    - translation: camel
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: گا
+    kurdish_latin_alphabet: ga
+    ipa: null
+    notes: 
+  translations:
+    - translation: bull
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: مراوی
+    kurdish_latin_alphabet: mirawî
+    ipa: null
+    notes: 
+  translations:
+    - translation: duck
+      notes:
+  notes: 
+  tags:
+    - animal
+    - bird
+
+- sources:
+  - sorani_alphabet: قاز
+    kurdish_latin_alphabet: qaz
+    ipa: null
+    notes: 
+  translations:
+    - translation: duck
+      notes:
+  notes: 
+  tags:
+    - animal
+    - bird
+
+- sources:
+  - sorani_alphabet: مار
+    kurdish_latin_alphabet: mar
+    ipa: null
+    notes: 
+  translations:
+    - translation: snake
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: بۆق
+    kurdish_latin_alphabet: boq
+    ipa: null
+    notes: 
+  translations:
+    - translation: frog
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: ماسی
+    kurdish_latin_alphabet: masî
+    ipa: null
+    notes: 
+  translations:
+    - translation: fish
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: رێوی
+    kurdish_latin_alphabet: rêwî
+    ipa: null
+    notes: 
+  translations:
+    - translation: fox
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: شێر
+    kurdish_latin_alphabet: şer
+    ipa: null
+    notes: 
+  translations:
+    - translation: lion
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: پڵینگ
+    kurdish_latin_alphabet: pillîng
+    ipa: null
+    notes: 
+  translations:
+    - translation: tiger
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: ورچ
+    kurdish_latin_alphabet: wirç
+    ipa: null
+    notes: 
+  translations:
+    - translation: bear
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: فیل
+    kurdish_latin_alphabet: fîl
+    ipa: null
+    notes: 
+  translations:
+    - translation: elephant
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: زڕاگه‌
+    kurdish_latin_alphabet: zirrafe
+    ipa: null
+    notes: 
+  translations:
+    - translation: giraffe 
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: په‌پووله‌
+    kurdish_latin_alphabet: pepûle
+    ipa: null
+    notes: 
+  translations:
+    - translation: butterfly 
+      notes:
+  notes: 
+  tags:
+    - animal
+    - insect
+
+- sources:
+  - sorani_alphabet: كه‌روێشك
+    kurdish_latin_alphabet: kerwêşik
+    ipa: null
+    notes: 
+  translations:
+    - translation: rabbit
+      notes:
+  notes: 
+  tags:
+    - animal
+
+- sources:
+  - sorani_alphabet: سیمۆره‌
+    kurdish_latin_alphabet: sîmore
+    ipa: null
+    notes: 
+  translations:
+    - translation: squirrel
+      notes:
+  notes: 
+  tags:
+    - animal
